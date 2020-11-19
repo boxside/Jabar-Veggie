@@ -19,7 +19,8 @@ data analysis and visualization of Vegetable's Commodities in West Java
 ![Figure 3](https://github.com/boxside/Jabar-Veggie/blob/main/figure/Untitled-3.jpg)
  
 ## The City/District that Dominating the Vegetables Commoditiy Production
-this data according to poin the city/district of every top 3 each vegetables production
+  this data according to poin the city/district of every top 3 each vegetables production
+
 ![Figure 4](https://github.com/boxside/Jabar-Veggie/blob/main/figure/point.jpg)
 ![Figure 5](https://github.com/boxside/Jabar-Veggie/blob/main/figure/dominator.jpg)
 
@@ -28,5 +29,5 @@ then following by Sawi/Choy sum (48%) and wortel/carrot (40%), etc. and the prod
 ![Figure 6](https://github.com/boxside/Jabar-Veggie/blob/main/figure/Figure_3.png)
 
 ## "The Big Brother's" Contribution
-  the big brother is refer to the capital city and big city that near DKI Jakarta such as Kota Bekasi, Kota Depok, and Kota Bogor. we can see their contribution from **Figure 7**
+  the big brother is refer to the West Java's capital city and big city that near DKI Jakarta such as Kota Bekasi, Kota Depok, and Kota Bogor. we can see their contribution from **Figure 7**
 ![Figure 6](https://github.com/boxside/Jabar-Veggie/blob/main/figure/Figure_4.png)
