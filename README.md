@@ -34,4 +34,4 @@ then following by Sawi/Choy sum (48%) and wortel/carrot (40%), etc. and the prod
 
 
 ## Dashboard with Tablueau
-![Figure 7](https://github.com/boxside/Jabar-Veggie/blob/main/figure/Dashboard 1.png)
+![Figure 7](https://github.com/boxside/Jabar-Veggie/blob/main/figure/Dashboard_1.png)
