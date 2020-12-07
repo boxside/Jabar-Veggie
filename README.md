@@ -31,3 +31,7 @@ then following by Sawi/Choy sum (48%) and wortel/carrot (40%), etc. and the prod
 ## "The Big Brother's" Contribution
   the big brother is refer to the West Java's capital city and big city that near DKI Jakarta such as Kota Bekasi, Kota Depok, and Kota Bogor. we can see their contribution from **Figure 7**
 ![Figure 6](https://github.com/boxside/Jabar-Veggie/blob/main/figure/Figure_4.png)
+
+
+## Dashboard with Tablueau
+![Figure 7](https://github.com/boxside/Jabar-Veggie/blob/main/figure/Dashboard1.png)
